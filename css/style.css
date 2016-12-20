@@ -1,0 +1,30 @@
+* {
+	text-align: center;
+	background-color: #00f;
+	color: #fff;
+}
+
+.box {
+	border: 2px solid #fff;
+	margin: 10px;
+	border-radius: 10px;
+}
+
+.trigger {
+	display: block;
+	width: 200px;
+	height: 50px;
+	line-height: 50px;
+	border: 2px solid #fff;
+	border-radius: 10px;
+	margin: 0 auto;
+}
+
+.tweet {
+	display: block;
+	width: 200px;
+	height: 50px;
+	line-height: 50px;
+	border: 2px solid #fff;
+	border-radius: 10px;
+}
